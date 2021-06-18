@@ -7,6 +7,7 @@
 ## Summary
 </br>
 
+This was a group project with Riley Robertson and Helen Meigs.
 
 The goal of this project was to quantify the relationship between wildfire events and air quality.  Does the type of fire - namely prescribed ("Rx") burns vs wildfire - or the size of fire have an interpretable impact on air quality?  Answering these questions could be used to inform wildfire management efforts.  Fires are a fact of life: they will occur and they will pollute the air pollution when they do.  If there is a defined relationship between air pollutants, fire acreage, and/or type of fire, management agencies could use this information to determine a burn regimen to optimize air quality and minimize the impact of these events on human health.  I.e., if we could confirm that 1,000 fires under 300 acres have significantly less impact than a single fire of 5,000 acres, that would encourage a high-frequency-low-acreage prescribed burn regimen.
 
